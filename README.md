@@ -57,8 +57,6 @@ A powerful tool to interact with any GitHub repository using Retrieval-Augmented
 ## 📅 Coming Soon
 
 - 🖥️ Interactive Web UI for easier usage
-- 📦 Support for multiple vector stores
-- 📊 Visual insights into code structure
 
 ---
 
